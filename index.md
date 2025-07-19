@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Welcome to My Homepage
+title: Theodossios Drossidis
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
-  <h1 style="margin: 0;">👋 Welcome</h1>
+  <h1 style="margin: 0;">👋 Welcome to my Website</h1>
   <nav style="font-size: 18px;">
     <a href="index.html" style="margin-right: 15px;">Home</a>
     <a href="about.html" style="margin-right: 15px;">About</a>
