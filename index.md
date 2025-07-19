@@ -1,8 +1,3 @@
----
-layout: default
-title: Welcome to My Homepage
----
-
 <nav style="text-align: center; font-size: 18px; margin-bottom: 30px;">
   <a href="index.html">Home</a> |
   <a href="about.html">About</a> |
@@ -12,6 +7,6 @@ title: Welcome to My Homepage
 
 # 👋 Welcome
 
-Hi! I'm **[Your Name]**, and this is my personal academic homepage built with GitHub Pages and Jekyll.
+Hi! I'm **Theodossios Drossidis**, and this is my personal academic homepage.
 
 Feel free to explore the sections above!
