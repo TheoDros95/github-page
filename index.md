@@ -1,19 +1,16 @@
 ---
 layout: default
-title: Theodossios Drossidis
+title: Welcome to My Homepage
 ---
 
-# 👋 Hello!
+# 👋 Welcome
 
-Welcome to my website.
+Hi! I'm **Theodossios Drossidis**, and this is my academic homepage.
 
-## 🌱 About Me
+---
 
-I'm currently building this site — more content coming soon!
+## 📂 Sections
 
-## 🔗 Links
-
-- [My GitHub Profile](https://github.com/TheoDros95)
-- [My Projects](#)
-- [Contact Me](mailto:theo.drossidis@gmail.com)
-
+- [About Me](about.html)
+- [CV](cv.html)
+- [Research](research.html)
