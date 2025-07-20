@@ -5,9 +5,8 @@ title: Theodossios Drossidis
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; flex-wrap: wrap;">
   <div style="max-width: 60%;">
-    <p><strong>Theodossios Drossidis</strong></p>
-    <p>Research Economist  
-    Central Bank of Malta
+    <p><strong>Research Economist</strong></p>
+    <p>Central Bank of Malta,
     Binja Laparelli, 
     St James’s Counterguard,
     Valletta</p>
