@@ -7,7 +7,7 @@ title: CV
 
 You can view or download my full CV here:
 
-- <a href="assets/profile.jpg" target="_blank">📄 View CV (PDF)</a>
+[📄 Download CV (PDF)](/assets/TheodossiosDrossidis_CV.pdf)
 
 
 > Make sure you've uploaded your `CV.pdf` to the `assets/` folder.
