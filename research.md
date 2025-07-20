@@ -11,10 +11,6 @@ This paper uses high-frequency data on the distribution of US income to investig
 Keywords: Oil shock, Income inequality, FAVAR, External instrument identification  
 [Publication](https://doi.org/10.1016/j.econlet.2024.111769) | [Code](#)
 
-### 🔹 Project Title 2
-Short description.  
-Focus: Statistics, Modeling  
-[Paper](#) | [GitHub](#)
 
 <div style="text-align: center; margin-top: 50px;">
   <a href="index.html">← Back to Home</a>
