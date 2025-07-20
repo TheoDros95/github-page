@@ -20,5 +20,8 @@ Example text goes here!
 
 When I’m not working, I enjoy [hobby], [hobby], and [hobby].
 
-[← Back to Home](index.html)
+<div style="text-align: center; margin-top: 50px;">
+  <a href="index.html">← Back to Home</a>
+</div>
+
 
