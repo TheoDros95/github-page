@@ -7,7 +7,7 @@ title: CV
 
 You can view or download my full CV here:
 
-[📄 Download CV (PDF)]({{ '/assets/TheodossiosDrossidis_CV.pdf' | relative_url }})
+[📄 Download CV (PDF)](/github-page/assets/TheodossiosDrossidis_CV.pdf)
 
 
 <div style="text-align: center; margin-top: 50px;">
