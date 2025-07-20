@@ -3,47 +3,82 @@
   <head>
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <!-- Removed apple-mobile-web-app-status-bar-style meta -->
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+      /* Top navigation bar styling */
+      .top-bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: #157878;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        font-size: 1.2em;
+      }
+
+      .top-bar .site-name {
+        font-weight: 900;
+      }
+
+      .top-bar nav a {
+        color: white;
+        text-decoration: none;
+        margin-left: 20px;
+        font-weight: 600;
+      }
+
+      .top-bar nav a:hover {
+        text-decoration: underline;
+      }
+
+      main {
+        padding: 20px;
+        max-width: 900px;
+        margin: 0 auto;
+        font-family: 'Open Sans', sans-serif;
+      }
+    </style>
   </head>
+
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+    <header class="top-bar" role="banner">
+      <div class="site-name">{{ site.title | default: "Theodossios Drossidis" }}</div>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about.html' | relative_url }}">About</a>
+        <a href="{{ '/cv.html' | relative_url }}">CV</a>
+        <a href="{{ '/research.html' | relative_url }}">Research</a>
+      </nav>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer" style="text-align: center; margin-top: 40px; font-size: 0.9em;">
-      <p>© 2025 Theodossios Drossidis · 
-        <a href="mailto:your.email@example.com">theo.drossidis@gmail.com</a>
-      </p>
-      <p>
-        <a href="https://github.com/yourusername" target="_blank" style="margin-right: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" style="width: 20px; vertical-align: middle;">
-        </a>
-        <a href="https://www.linkedin.com/in/theo-drossidis-5625121ba" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" style="width: 20px; vertical-align: middle;">
-      </a>
-    </p>
-  </footer>
-      
+        <p>© 2025 Theodossios Drossidis · 
+          <a href="mailto:theo.drossidis@gmail.com">theo.drossidis@gmail.com</a>
+        </p>
+        <p>
+          <a href="https://github.com/yourusername" target="_blank" style="margin-right: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" style="width: 20px; vertical-align: middle;">
+          </a>
+          <a href="https://www.linkedin.com/in/theo-drossidis-5625121ba" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" style="width: 20px; vertical-align: middle;">
+          </a>
+        </p>
+      </footer>
     </main>
   </body>
 </html>
