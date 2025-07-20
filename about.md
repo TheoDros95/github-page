@@ -16,7 +16,7 @@ Most recently, I completed my PhD in Economics at Brunel University London in th
 
 When it comes to research, I am passionate about empirical macroeconometrics, particularly the distributional effects of macroeconomic shocks. I also enjoy working on forecasting exercises and am continuously motivated to explore new methodologies and research questions that challenge conventional perspectives.
 
-Outside of work, I value staying active and connected. I enjoy spending time with friends, going to the gym, playing the guitar, and riding my motorcycle. For nearly 20 years, I was an active football player — a passion that shaped my appreciation for teamwork and discipline.
+Outside of work, I value staying active and connected. I enjoy spending time with friends, going to the gym, playing the guitar, and riding my motorcycle. For nearly 20 years, I was an active football player — a passion that shaped my appreciation for teamwork and discipline. However, the competitive days are over!
 
 Feel free to connect or reach out!
 
