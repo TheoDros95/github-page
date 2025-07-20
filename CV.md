@@ -7,10 +7,8 @@ title: CV
 
 You can view or download my full CV here:
 
-[📄 Download CV (PDF)](/github-page/assets/TheodossiosDrossidis_CV.pdf)
+[📄 Download CV (PDF)]({{ '/assets/TheodossiosDrossidis_CV.pdf' | relative_url }})
 
-
-> Make sure you've uploaded your `CV.pdf` to the `assets/` folder.
 
 <div style="text-align: center; margin-top: 50px;">
   <a href="index.html">← Back to Home</a>
