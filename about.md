@@ -7,6 +7,9 @@ title: About Me
 
 I'm a Research Economist at the Central Bank of Malta.
 
+## Background
+Example text goes here!
+
 ## Interests
 
 - Topic 1
