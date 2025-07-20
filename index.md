@@ -3,20 +3,23 @@ layout: default
 title: Theodossios Drossidis
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 30px;">
-  <img src="assets/profile.jpg" alt="Theodossios Drossidis" style="width: 180px; border-radius: 100px; margin-right: 20px;" />
-
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; flex-wrap: wrap;">
+  <div style="max-width: 60%;">
     <p><strong>Theodossios Drossidis</strong></p>
+    <p>Postdoctoral Researcher  
+    Department of Economics  
+    University of Exampleland</p>
+
     <p>Email: <a href="mailto:theo.drossidis@gmail.com">theo.drossidis@gmail.com</a></p>
-    <p>
-      <a href="https://github.com/TheoDros95" target="_blank">GitHub</a> |
-      <a href="https://www.linkedin.com/in/theo-drossidis-5625121ba" target="_blank">LinkedIn</a>
-    </p>
+
     <p>
       I’m a researcher in economics with a focus on income inequality and macroeconomic shocks.
       My work combines empirical macroeconomics with applied econometrics.
     </p>
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="assets/profile.jpg" alt="Theodossios Drossidis" style="width: 180px; border-radius: 100px; margin-left: 20px;" />
   </div>
 </div>
 
