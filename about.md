@@ -10,7 +10,7 @@ Hi! My name is Theodossios Drossidis (just Theo is fine). I am currently working
 ## Background
 I began my academic journey at the University of Siegen in Germany, where I studied Business Administration. Early in my undergraduate studies, I developed a strong interest in macroeconomics, which led me to pursue a Master of Science in Economics at the University of Düsseldorf, specialising in monetary economics.
 
-Most recently, I completed my PhD in Economics at Brunel University London in the UK. I was supervised by Dr. Angeliki Theophilopoulou, who played a key role in shaping my research interests. Under her guidance, I focused on the distributional effects of macroeconomic shocks, with particular attention to household heterogeneity and Bayesian econometrics.
+Most recently, I completed my PhD in Economics at Brunel University London in the UK. I was supervised by [Dr Angeliki Theophilopoulou](https://sites.google.com/view/angelikitheophilopoulou/home), who played a key role in shaping my research interests. Under her guidance, I focused on the distributional effects of macroeconomic shocks, with particular attention to household heterogeneity and Bayesian econometrics.
 
 ## Interests
 
