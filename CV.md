@@ -11,4 +11,7 @@ You can view or download my full CV here:
 
 > Make sure you've uploaded your `CV.pdf` to the `assets/` folder.
 
-[← Back to Home](index.html)
+<div style="text-align: center; margin-top: 50px;">
+  <a href="index.html">← Back to Home</a>
+</div>
+
