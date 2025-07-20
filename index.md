@@ -24,7 +24,7 @@ title: Theodossios Drossidis
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="assets/profile.jpg" alt="Theodossios Drossidis" style="width: 180px; border-radius: 100px; margin-left: 20px;" />
+    <img src="assets/profile2.jpg" alt="Theodossios Drossidis" style="width: 180px; border-radius: 100px; margin-left: 20px;" />
   </div>
 </div>
 
