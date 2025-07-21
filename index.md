@@ -15,9 +15,9 @@ title: Theodossios Drossidis
 
     <p>
       Welcome, and thank you for visiting my page!
-      I’m a researcher in macroeconomics at the CBM, with a focus on the transmission and propagation of macroeconomic shocks throughout the economy.
+      I’m a macroeconomic researcher at the CBM, with a focus on the transmission and propagation of macroeconomic shocks throughout the economy.
       In particular, I’m interested in how these shocks affect income and wealth inequality. My work is primarily empirical.
-      I’m currently expanding my methodological toolkit to include forecasting techniques and functional data analysis. I have a strong interest in
+      I’m currently expanding my methodological toolkit to include forecasting/nowcasting techniques and functional data analysis. I have a strong interest in
       distributional dynamics and Bayesian multivariate time series modelling.
     </p>
   </div>
