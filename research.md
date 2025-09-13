@@ -7,7 +7,7 @@ title: Research
 
 ## 📑 Work in Progress
 
-### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation
+### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation.
 ### 🔹 Unequal Barrels and Slick Consequences: The Distributional Impact of Oil Shocks 
 <small> with [Luis Calderon](https://luiscald.github.io)
 
