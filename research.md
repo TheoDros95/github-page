@@ -8,8 +8,8 @@ title: Research
 ## 📑 Work in Progress
 
 ### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation.
-<button type="button" class="expand-btn">Expand</button>
-<div class="abstract" hidden>
+<details>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
   <p>
     This study extends recent work in the climate literature by examining how climate shocks—
     specifically temperature and precipitation anomalies—spill over across borders, influencing
@@ -24,7 +24,7 @@ title: Research
     cross-border climate vulnerability, especially for small open economies that are closely integrated
     with larger trading partners.
   </p>
-</div>
+</details>
 
 ### 🔹 Unequal Barrels and Slick Consequences: The Distributional Impact of Oil Shocks 
 <small> with [Luis Calderon](https://luiscald.github.io)</small>
@@ -33,8 +33,8 @@ title: Research
 
 ### 🔹 The distributional effects of oil supply news shocks 
 <small> with [Haroon Mumtaz](https://sites.google.com/site/hmumtaz77/) and [Angeliki Theophilopoulou](https://sites.google.com/view/angelikitheophilopoulou/home)</small>
-<button type="button" class="expand-btn">Expand</button>
-<div class="abstract" hidden>
+<details>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
   <p>
     This paper uses high-frequency data on the distribution of US income to investigate the heterogeneous
     effects of oil supply news shocks. Using a FAVAR with an external instrument, we show that these
@@ -43,58 +43,13 @@ title: Research
     corporate profits and interest income drives the effect for affluent individuals.  
     Keywords: Oil shock, Income inequality, FAVAR, External instrument identification
   </p>
-</div>  
+</details>  
 [Publication](https://doi.org/10.1016/j.econlet.2024.111769) | [Code](https://www.dropbox.com/scl/fo/nwnrtw2jknsdb6ixzd0b7/AJw-LfAeSrDm0OAx9p600ic?rlkey=w0truu7ellhzpfgy3n249j7lk&dl=0)
 
 <div style="text-align: center; margin-top: 50px;">
   <a href="index.html">← Back to Home</a>
 </div>
 
-<style>
-  .expand-btn {
-    margin-left: 0.5rem;
-    padding: 0.15rem 0.6rem;
-    font-size: 0.8rem;
-    border-radius: 999px;
-    border: 1px solid #ccc;
-    background: #f2f2f2;
-    cursor: pointer;
-    vertical-align: middle;
-    transition: background 0.2s, border-color 0.2s;
-  }
-  .expand-btn:hover {
-    background: #e6e6e6;
-    border-color: #aaa;
-  }
-  .abstract {
-    margin-top: 0.4rem;
-    padding-left: 0.8rem;
-  }
-</style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    document.querySelectorAll(".expand-btn").forEach((btn) => {
-      btn.addEventListener("click", () => {
-        // Find the next .abstract sibling after this button
-        let sibling = btn.nextElementSibling;
-        while (sibling && !sibling.classList.contains("abstract")) {
-          sibling = sibling.nextElementSibling;
-        }
-        if (!sibling) return;
-
-        const isHidden = sibling.hasAttribute("hidden");
-        if (isHidden) {
-          sibling.removeAttribute("hidden");
-          btn.textContent = "Collapse";
-        } else {
-          sibling.setAttribute("hidden", "");
-          btn.textContent = "Expand";
-        }
-      });
-    });
-  });
-</script>
 
 
 
