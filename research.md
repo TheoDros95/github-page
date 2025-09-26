@@ -7,7 +7,8 @@ title: Research
 
 ## 📑 Work in Progress
 
-### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation. <button type="button" class="expand-btn" onclick="toggleAbstract(this)">Expand</button>
+### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation.
+<button type="button" class="expand-btn">Expand</button>
 <div class="abstract" hidden>
   <p>
     This study extends recent work in the climate literature by examining how climate shocks—
@@ -25,11 +26,14 @@ title: Research
   </p>
 </div>
 
-### 🔹 Unequal Barrels and Slick Consequences: The Distributional Impact of Oil Shocks <small> with [Luis Calderon](https://luiscald.github.io)</small>
+### 🔹 Unequal Barrels and Slick Consequences: The Distributional Impact of Oil Shocks 
+<small> with [Luis Calderon](https://luiscald.github.io)</small>
 
 ## 📚 Publications
 
-### 🔹 The distributional effects of oil supply news shocks <small> with [Haroon Mumtaz](https://sites.google.com/site/hmumtaz77/) and [Angeliki Theophilopoulou](https://sites.google.com/view/angelikitheophilopoulou/home)</small> <button type="button" class="expand-btn" onclick="toggleAbstract(this)">Expand</button>
+### 🔹 The distributional effects of oil supply news shocks 
+<small> with [Haroon Mumtaz](https://sites.google.com/site/hmumtaz77/) and [Angeliki Theophilopoulou](https://sites.google.com/view/angelikitheophilopoulou/home)</small>
+<button type="button" class="expand-btn">Expand</button>
 <div class="abstract" hidden>
   <p>
     This paper uses high-frequency data on the distribution of US income to investigate the heterogeneous
@@ -62,10 +66,6 @@ title: Research
     background: #e6e6e6;
     border-color: #aaa;
   }
-  .expand-btn:focus {
-    outline: none;
-    border-color: #666;
-  }
   .abstract {
     margin-top: 0.4rem;
     padding-left: 0.8rem;
@@ -73,19 +73,29 @@ title: Research
 </style>
 
 <script>
-  function toggleAbstract(button) {
-    const abstract = button.nextElementSibling;
-    if (!abstract) return;
-    const isHidden = abstract.hasAttribute("hidden");
-    if (isHidden) {
-      abstract.removeAttribute("hidden");
-      button.textContent = "Collapse";
-    } else {
-      abstract.setAttribute("hidden", "");
-      button.textContent = "Expand";
-    }
-  }
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".expand-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        // Find the next .abstract sibling after this button
+        let sibling = btn.nextElementSibling;
+        while (sibling && !sibling.classList.contains("abstract")) {
+          sibling = sibling.nextElementSibling;
+        }
+        if (!sibling) return;
+
+        const isHidden = sibling.hasAttribute("hidden");
+        if (isHidden) {
+          sibling.removeAttribute("hidden");
+          btn.textContent = "Collapse";
+        } else {
+          sibling.setAttribute("hidden", "");
+          btn.textContent = "Expand";
+        }
+      });
+    });
+  });
 </script>
+
 
 
 
