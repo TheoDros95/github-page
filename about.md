@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# 🧑‍💼 About Me
+# About Me
 
 Hi! My name is Theodossios Drossidis (just Theo is fine). I am currently working as a Research Economist in the Research Department of the Central Bank of Malta. My work focuses on macroeconomic forecasting and structural analysis, with a particular interest in understanding how macroeconomic shocks impact the economy.
 
