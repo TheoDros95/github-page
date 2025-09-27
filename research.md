@@ -3,9 +3,9 @@ layout: default
 title: Research
 ---
 
-# 🔬 Research
+# Research
 
-## 📑 Work in Progress
+## Work in Progress
 
 ### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation.
 <details>
@@ -29,7 +29,7 @@ title: Research
 ### 🔹 Unequal Barrels and Slick Consequences: The Distributional Impact of Oil Shocks 
 <small> with [Luis Calderon](https://luiscald.github.io)</small>
 
-## 📚 Publications
+## Publications
 
 ### 🔹 The distributional effects of oil supply news shocks 
 <small> with [Haroon Mumtaz](https://sites.google.com/site/hmumtaz77/) and [Angeliki Theophilopoulou](https://sites.google.com/view/angelikitheophilopoulou/home)</small>
