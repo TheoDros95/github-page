@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-# 📄 Curriculum Vitae
+# Curriculum Vitae
 
 You can view or download my full CV here:
 
