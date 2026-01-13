@@ -11,18 +11,7 @@ title: Research
 <details>
   <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
   <p>
-    This study extends recent work in the climate literature by examining how climate shocks—
-    specifically temperature and precipitation anomalies—spill over across borders, influencing
-    inflation and real economic variables. Using high-resolution gridded climate data, I construct
-    sector-sensitive climate shock measures and embed them in a large two-country VAR framework
-    for Italy and Malta. The analysis shows that climate shocks in Italy can generate inflationary
-    pressures in Malta, particularly through processed food prices, services, and producer prices
-    in food manufacturing. Droughts generate effects similar to summer temperature shocks, suggesting
-    a shared economic impact pattern across the two countries considered. Importantly, once the
-    shock "crosses borders", it may materialise in different inflation components in Malta,
-    reflecting country-specific transmission channels. These findings underscore the importance of
-    cross-border climate vulnerability, especially for small open economies that are closely integrated
-    with larger trading partners.
+    This study extends recent work in the climate literature by examining how climate shocks, specifically temperature and precipitation anomalies, spill over across borders, influencing inflation and real economic variables. Using high-resolution gridded climate data, I construct sector-sensitive climate shock measures that account for potential sign asymmetries and embed them in a large two-country VAR framework for Italy and Malta. The analysis shows that climate shocks in Italy can generate inflationary pressures in Malta, particularly through processed food prices, services, and producer prices in food manufacturing. Importantly, once a shock crosses borders, it may materialise in different inflation components in Malta, reflecting country-specific transmission channels. These findings underscore the importance of cross-border climate vulnerability, especially for small open economies that are closely integrated with larger trading partners.
   </p>
 </details>
 
