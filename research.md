@@ -15,6 +15,14 @@ title: Research
   </p>
 </details>
 
+### 🔹 The Time-Varying Effect of Monetary Policy on Income Inequality in the US
+<details>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
+  <p>
+    Monetary policy not only stabilises the economy but also affects how income is distributed across households. These distributional effects may change over time as economic conditions and the conduct of policy evolve. This paper studies how US income inequality responds to monetary policy shocks and how these responses have shifted over the past three decades. Contractionary shocks increase inequality, with both tails of the income distribution becoming more responsive, particularly during and after the zero lower bound period. Decomposing income shows that labour income drives these effects, while capital income plays a limited role. The amplification over time is mainly due to a strengthening earnings-heterogeneity channel. Overall, the findings demonstrate that the distributional transmission of monetary policy is time-varying, highlighting the importance of accounting for evolving effects when evaluating the costs and benefits of policy interventions.
+  </p>
+</details>
+
 ### 🔹 Unequal Barrels and Slick Consequences: The Distributional Impact of Oil Shocks 
 <small> with [Luis Calderon](https://luiscald.github.io)</small>
 
