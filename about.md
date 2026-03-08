@@ -5,17 +5,13 @@ title: About Me
 
 # About Me
 
-Hey there — I’m Theodossios Drossidis, but please, call me Theo. I work at the Central Bank of Malta, where I get to explore how the economy reacts to unexpected shocks and what those shocks mean for people and policy.
-
 ## Background
 
-My academic path has taken me across Germany and the UK, starting with Business Administration at the University of Siegen, then a Master’s in Economics at the University of Düsseldorf. Those years really influenced my curiosity about how monetary policy shapes economies and societies.
-Later on, my doctoral research deepened that interest, focusing on how economic changes affect households differently and how we can capture those effects using modern econometric tools.
+My academic path took me from Business Administration at the University of Siegen to a Master’s in Economics at the University of Düsseldorf, where my interest in monetary policy and its broader societal effects took root. I then completed my PhD in Economics at Brunel University London, focusing on how economic changes affect households differently and the econometric tools needed to capture those effects.
 
-## Interests
+## Personal Interests
 
-I’m driven by the challenge of uncovering how data can tell richer economic stories — the kind that bridge numbers with real-world outcomes. I enjoy refining forecasting approaches and testing ideas that push beyond traditional frameworks.
-Outside research, I try to keep life grounded — whether that’s catching up with friends, hitting the gym, playing guitar, or going for a ride on my motorcycle. I also spent nearly twenty years playing football, which taught me a lot about teamwork and persistence (though I’m definitely retired from the pitch now).
+Outside research, I try to keep life grounded — whether that’s catching up with friends, hitting the gym, playing guitar, or going for a ride on my motorcycle. I also spent nearly twenty years playing football, which taught me a lot about teamwork and persistence.
 
 Always happy to chat — feel free to connect anytime!
 
