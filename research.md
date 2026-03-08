@@ -9,7 +9,7 @@ title: Research
 
 ### 🔹 Short-run spillover effects of climate shocks to small-open economies: An empirical investigation.
 <details>
-  <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#000000;">Expand</span></summary>
   <p>
     This study extends recent work in the climate literature by examining how climate shocks, specifically temperature and precipitation anomalies, spill over across borders, influencing inflation and real economic variables. Using high-resolution gridded climate data, I construct sector-sensitive climate shock measures that account for potential sign asymmetries and embed them in a large two-country VAR framework for Italy and Malta. The analysis shows that climate shocks in Italy can generate inflationary pressures in Malta, particularly through processed food prices, services, and producer prices in food manufacturing. Importantly, once a shock crosses borders, it may materialise in different inflation components in Malta, reflecting country-specific transmission channels. These findings underscore the importance of cross-border climate vulnerability, especially for small open economies that are closely integrated with larger trading partners.
   </p>
@@ -17,7 +17,7 @@ title: Research
 
 ### 🔹 The Time-Varying Effect of Monetary Policy on Income Inequality in the US
 <details>
-  <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#000000;">Expand</span></summary>
   <p>
     Monetary policy not only stabilises the economy but also affects how income is distributed across households. These distributional effects may change over time as economic conditions and the conduct of policy evolve. This paper studies how US income inequality responds to monetary policy shocks and how these responses have shifted over the past three decades. Contractionary shocks increase inequality, with both tails of the income distribution becoming more responsive, particularly during and after the zero lower bound period. Decomposing income shows that labour income drives these effects, while capital income plays a limited role. The amplification over time is mainly due to a strengthening earnings-heterogeneity channel. Overall, the findings demonstrate that the distributional transmission of monetary policy is time-varying, highlighting the importance of accounting for evolving effects when evaluating the costs and benefits of policy interventions.
   </p>
@@ -31,7 +31,7 @@ title: Research
 ### 🔹 The distributional effects of oil supply news shocks 
 <small> with [Haroon Mumtaz](https://sites.google.com/site/hmumtaz77/) and [Angeliki Theophilopoulou](https://sites.google.com/view/angelikitheophilopoulou/home)</small>
 <details>
-  <summary><span style="cursor:pointer; font-size:0.85rem; color:#444;">Expand</span></summary>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#000000;">Expand</span></summary>
   <p>
     This paper uses high-frequency data on the distribution of US income to investigate the heterogeneous
     effects of oil supply news shocks. Using a FAVAR with an external instrument, we show that these
