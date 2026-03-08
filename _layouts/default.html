@@ -35,13 +35,34 @@
         text-decoration: underline;
       }
 
-      /* Headings */
+      /* Headings — !important to override Cayman theme green */
       h1, h2, h3, h4, h5, h6 {
-        font-family: "Times New Roman", Times, serif;
-        color: #000000;
+        font-family: "Times New Roman", Times, serif !important;
+        color: #000000 !important;
         font-weight: bold;
         margin-top: 1.4em;
         margin-bottom: 0.4em;
+      }
+
+      /* Section break: grey bar above h2 */
+      h2 {
+        border-top: 1px solid #d0d0d0;
+        padding-top: 0.9em;
+        margin-top: 2em;
+      }
+
+      /* First h2 on a page doesn't need a top bar */
+      h2:first-of-type {
+        border-top: none;
+        padding-top: 0;
+        margin-top: 1.4em;
+      }
+
+      /* Style <hr> as a light grey bar */
+      hr {
+        border: none;
+        border-top: 1px solid #d0d0d0;
+        margin: 2em 0;
       }
 
       /* Override Cayman theme page-header */
