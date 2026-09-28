@@ -8,7 +8,16 @@ title: Research
 ## Who Bears Macroeconomic Uncertainty in the U.K.?
 <small style="font-size:0.85rem; color:#414548;"><em>Draft coming soon</em></small>
 
+<details>
+  <summary><span style="cursor:pointer; font-size:0.85rem; color:#414548;">Expand</span></summary>
+  <p>
+    Macroeconomic uncertainty recurs in every downturn, but its aggregate footprint averages over households whose exposures differ enormously. I trace one identified shock through the <em>joint</em> household distribution of income, consumption and prices in the United Kingdom, pricing each household's own basket with the published RPI group indices and carrying the three distributions, their components and their copula through a functional VAR. Uncertainty compresses income and consumption, and the density approach locates the compression: it comes mainly from the bottom of each distribution moving up towards the middle, relative to the average household, while the top loses less ground. Benefits, the bulk of income at the bottom, compress with it, and so does spending on housing, fuel and transport, whereas food spending and the wages of earners do not. Prices move the other way in the first year, since the easing that follows the shock cuts the mortgage interest paid mostly by richer households. Ranks barely move: uncertainty makes households more alike in what they have and, for a while, less alike in what they pay.
+  </p>
+</details>
+
 ## The Time-Varying Effect of Monetary Policy on Income Inequality in the US
+<small style="font-size:0.85rem; color:#414548;"><em>Under review</em></small>
+
 <details>
   <summary><span style="cursor:pointer; font-size:0.85rem; color:#414548;">Expand</span></summary>
   <p>
@@ -17,6 +26,8 @@ title: Research
 </details>
 
 ## [Short-run spillover effects of climate shocks to small-open economies: An empirical investigation.](https://www.centralbankmalta.org/site/Publications/Economic%20Research/2026/WP-6-26.pdf)
+<small style="font-size:0.85rem; color:#414548;"><em>Under review</em></small>
+
 <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
 <details>
   <summary><span style="cursor:pointer; font-size:0.85rem; color:#414548;">Expand</span></summary>
