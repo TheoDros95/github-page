@@ -5,8 +5,8 @@ title: Research
 
 # Work in Progress
 
-## Who Bears Macroeconomic Uncertainty in the U.K.?
-<small style="font-size:0.85rem; color:#414548;"><em>Draft coming soon</em></small>
+## [Who Bears Macroeconomic Uncertainty in the U.K.?](assets/Who_Bears_Macroeconomic_Uncertainty_in_the_UK.pdf)
+<small style="font-size:0.85rem; color:#414548;"><em>Draft – subject to changes</em></small>
 
 <details>
   <summary><span style="cursor:pointer; font-size:0.85rem; color:#414548;">Expand</span></summary>
